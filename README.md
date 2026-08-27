@@ -19,7 +19,7 @@ Other files/figures:
 - **ECCO_GRID_v4r5.nc**: V4r5 grid details (in netCDF file format).
 - **ecco_v4r5_1deg_areas.pkl**: V4r5 1 degree grid cell areas.
 - **basin_mask_regridded_ecco_v4r5_1deg.nc**: Basin mask used to filter for the Southern Ocean ("SO") and the global ocean ("TOT").
-- **slopes_rs_wholeSIZ.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the whole sea ice zone used in this study ($\sigma_2 = [1035.60, 1037.25]~kg~m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
-- **slopes_rs_melt.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the sea ice melt region used in this study ($\sigma_2 = [1035.95, 1036.70]~kg~m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
-- **slopes_rs_formation.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the sea ice formation region used in this study ($\sigma_2 = [1036.79, 1037.25]~kg~m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
+- **slopes_rs_wholeSIZ.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the whole sea ice zone used in this study ($\sigma_2 = [1035.60, 1037.25] kg m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
+- **slopes_rs_melt.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the sea ice melt region used in this study ($\sigma_2 = [1035.95, 1036.70] kg m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
+- **slopes_rs_formation.npz**: Contains monthly $A'$, $F_b'$, and SIE and their correlations in the sea ice formation region used in this study ($\sigma_2 = [1036.79, 1037.25] kg m^{-3}$). Created in ECCO_WMT_paper_correlationcalc.ipynb.
 - **manuscript_figs**: Contains all figures and supplemental figures included in the manuscript.

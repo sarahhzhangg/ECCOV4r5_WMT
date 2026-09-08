@@ -1,12 +1,7 @@
 # ECCOV4r5_WMT
 This repository contains Python code to conduct the analysis and produce the figures in "Sensitivity of Southern Ocean surface transformation rates to Antarctic sea ice variability."
 
-ECCO Version 4, release 5 (V4r5) is available [here](https://github.com/MITgcm-contrib/llc_hires/tree/master/llc_90/ecco_v4r5). We run V4r5 to obtain monthly outputs from January 1992 to November 2024 at 1 degree of the following fields:
-  - oceFWflx
-  - SIatmFW
-  - oceQnet
-  - THETA
-  - SALT
+ECCO Version 4, release 5 (V4r5) is available [here](https://github.com/MITgcm-contrib/llc_hires/tree/master/llc_90/ecco_v4r5). We run V4r5 to obtain monthly outputs from January 1992 to November 2024 at 1 degree resolution to obtain the following fields: oceFWflx, SIatmFW, oceQnet, THETA, SALT.
 
 Scripts in this repository:
 - **v4r5_wmt_func.py**: WMT helper functions
